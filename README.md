@@ -18,5 +18,7 @@ Each problem will have its own directory, named after the problem number (e.g., 
 - **Python**: For concise and often quick implementations, especially for mathematical problems.
 - **TypeScript**: For solutions where type safety and a more structured approach are beneficial, or simply for practice.
 
+Run Typescript files with `npx ts-node index.ts`
+
 
 
